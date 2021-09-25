@@ -31,7 +31,7 @@ app.all('/contact',(req,res,next)=>{ //Todas las rutas contact pasan por aqui pr
 
 });
 */
-
+// jajajaxd
 app.get('/', (req,res) =>{
     const data=[{name: 'Marcos',age: 24},{name: 'Juan',age: 34},{name: 'Jose',age: 25}]
     res.render('index.ejs',{people: data});
