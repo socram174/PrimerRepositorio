@@ -1,0 +1,21 @@
+.pages li{ 
+
+background: lightseagreen;
+
+}
+
+.pages a{
+    
+    transition: color;
+}
+
+.pages a:hover{
+
+    color:seagreen;
+}
+
+.pages li:hover{
+
+color: red;
+
+}
